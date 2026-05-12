@@ -13,7 +13,7 @@ NeuroMotion is a real-time embedded + machine learning system that recognizes ha
 - ESP32 hardware integration
 
 ## Tech Stack
-- Python
+- Java
 - ESP32
 - Machine Learning
 - Signal Processing
